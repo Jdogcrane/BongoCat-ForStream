@@ -1,5 +1,5 @@
 # bongocat-fighter
-https://eikamikiku.github.io/bongocat-fighter/
+https://jdogcrane.github.io/BongoCat-ForStream/
 
 ## Description:
 Idea from https://github.com/kuroni/bongocat-osu/
@@ -11,7 +11,7 @@ Add browser source to OBS or whatever recording software.
 ## Configuration:
 Add the URL parameters to the link.
 The full default URL would be:
-<br>https://eikamikiku.github.io/bongocat-fighter/?gamepad=0&buttons=12,13,14,15,2,3,5,0,1,7,4&deadzone=0.4&ap2s=15
+<br>https://jdogcrane.github.io/BongoCat-ForStream/?gamepad=0&buttons=12,13,14,15,2,3,5,0,1,7,4&deadzone=0.4&ap2s=15
 
 Parameter  | Default | Note
 ------------- | ------------- | ------------- |
